@@ -67,24 +67,27 @@ section{
 }
 /* real history */
 .history>div>.image {
-    height: 600px;
-    width: 600px;
+    height: 500px;
+    width: 700px;
 }
-.history>div>
+.history>div>h2{
+    font-size: 50px;
+    text-align: center;
+}
 
 /* updates */
-#updates{
+#help{
     background-color: #e2af23;
     height: 200px;
     width: 800px;
     margin: 0 200px;
 }
-.email{
+#email{
     height: 30px;
     width: 200px;
     margin: 90px 250px;
 }
-.button{
+#button{
     height: 35px;
     width: 80px;
     background-color: tomato;
