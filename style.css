@@ -1,5 +1,4 @@
 body{
-    align-content: center;
     margin: -55px 75px ;
 }
 /* heder */
@@ -8,7 +7,6 @@ body{
     height: 700px;
     width: 1205px;
     background-repeat: no-repeat;
-    align-content: center;
 }
 h1{
     color: rgb(196, 24, 187);
@@ -56,14 +54,23 @@ section{
 .donet-plan{
     height: 350px;
     width: 400px;
-    background-color:silver ;
+    background-color:rgb(60, 78, 48) ;
     margin: 40px;
     border-radius: 10px;
     padding-top: 15px;
     padding: 50px 20px;
 }
+.d2{
+    background-color:rgb(34, 51, 109) ;
+}
+.d3{
+    background-color:rgb(217, 233, 129) ;
+}
 .donet-plan>p{
     padding: 0;
+}
+.donet-plan>img{
+    margin: 0 150px;
 }
 /* real history */
 .history>div>.image {
