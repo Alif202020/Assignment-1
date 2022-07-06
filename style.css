@@ -1,0 +1,103 @@
+body{
+    align-content: center;
+    margin: -55px 75px ;
+}
+/* heder */
+#header{
+    background-image: url(img/donation5.jpg);
+    height: 700px;
+    width: 1205px;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+h1{
+    color: rgb(196, 24, 187);
+    text-align: center;
+    padding: 30px 100px;
+    font-size: 80px;
+}
+p{
+    color: rgb(7, 133, 28);
+    text-align: center;
+    padding: 0px 100px;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+    margin: 80px 500px;
+    padding: 20px;
+    background-image: linear-gradient( rgb(13, 58, 13),blue);
+    color: white;
+}
+/* donet amount */
+section{
+    display: flex;
+}
+.amount{
+    height: 200px;
+    width: 300px;
+    background-color: gray;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+.text{
+    color: blue;
+    padding: 30px;
+    font-size: 50px;
+
+}
+.select{
+    background-color: brown;
+}
+/* donet-plan */
+.donet-plan{
+    height: 350px;
+    width: 400px;
+    background-color:silver ;
+    margin: 40px;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding: 50px 20px;
+}
+.donet-plan>p{
+    padding: 0;
+}
+/* real history */
+.history>div>.image {
+    height: 600px;
+    width: 600px;
+}
+.history>div>
+
+/* updates */
+#updates{
+    background-color: #e2af23;
+    height: 200px;
+    width: 800px;
+    margin: 0 200px;
+}
+.email{
+    height: 30px;
+    width: 200px;
+    margin: 90px 250px;
+}
+.button{
+    height: 35px;
+    width: 80px;
+    background-color: tomato;
+    border: none;
+    margin-left: -255px;
+}
+/* footer */
+footer{
+    height: 350px;
+    width: 1200px;
+    background-color: #292724;
+}
+footer>a{
+    margin: 0px 25px;
+    padding: 16px 44px;
+}
