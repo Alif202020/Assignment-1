@@ -25,8 +25,9 @@ p{
 a{
     text-decoration: none;
     text-align: center;
-    font-size: 30px;
-    margin: 80px 480px;
+    font-size: 20px;
+    margin: 80px 500px;
+    border-radius: 10px;
     padding: 20px;
     background-image: linear-gradient( rgb(13, 58, 13),blue);
     color: white;
